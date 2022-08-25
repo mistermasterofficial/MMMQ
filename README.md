@@ -1,5 +1,6 @@
 # MMMQ
-Или MisterMaster's MaxQuasars
+Или MisterMaster's MaxQuasars.
+
 Это неофициальный ресурспак для сервера MaxQuasars, созданный игроком Mister Master (отсюда и название).
 Прилагается три версии ресурспака:
 - Полная версия (Рекомендую)
